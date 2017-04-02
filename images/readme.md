@@ -1,1 +1,1 @@
-#Contains imgages used in the gallery.
+#Contains images used in the gallery.
